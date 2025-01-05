@@ -6,7 +6,10 @@
 ---
 
 ## 🎯 Personal Profile
-Experienced automotive software quality assurance professional with a strong track record of designing and executing comprehensive testing strategies to ensure product reliability and compliance. Skilled in aligning testing efforts across the development life cycle to meet evolving business needs and industry standards. Recognized for driving continuous process improvement, mitigating risks, and supporting successful software releases that enhance the user experience.
+Experienced automotive software quality assurance professional with a proven track record in designing and executing comprehensive testing
+strategies to ensure product reliability and compliance. Skilled in aligning testing efforts throughout the development life cycle to meet evolving
+business needs and industry standards. Known for driving continuous process improvement, mitigating risks, and supporting successful software
+releases that enhance the user experience.
 
 ---
 
@@ -17,24 +20,21 @@ Valeo, Cairo, Egypt
 *April 2022 – Present*
 
 - **Project:** Renault In-Vehicle Communication (IVC-TCU)
-  - Tested the Remote Diagnostics feature to validate compliance with EURO regulations for on-board measurements.
-  - Delivered 9 successful software releases to Renault and identified over 20 software defects.
+  - Tested the Remote Diagnostics feature to ensure compliance with EURO regulations for on‑board measurements.
+  - Delivered 9 successful software releases to Renault, identifying over 20 software defects.
   - Designed over 100 comprehensive test cases covering all software requirements.
-  - Automated the execution of all designed test cases, enabling seamless CI pipeline integration and driving about 70% reduction in overall test execution time.
-  - Extended test automation efforts to include other features, such as E-Call.
-  - Managed comprehensive execution of software release acceptance test (SRAT) integrated within the CI pipeline.
+  - Automated test case execution, integrating seamlessly with the CI pipeline, resulting in a 70% reduction in overall test execution time.
+  - Extended test automation to include additional features, such as E‑Call.
+  - Managed the comprehensive execution of software release acceptance tests (SRAT) within the CI pipeline, ensuring the quality and compliance of core functionalities for each release.
 
 - **Common Tasks:**
-  - Requirement analysis using DOORS (IBM requirement management tool).
-  - Identified system gaps or missing information for testing activities.
-  - Conducted technical and process reviews.
-  - Performed hardware and software debugging.
-  - Reported findings (Software bugs) using CoreALM/JIRA.
+  - Conducted requirement analysis using DOORS (IBM requirement management tool).
+  - Identified system gaps or missing information necessary for testing activities.
+  - Performed technical and process reviews.
+  - Executed hardware and software debugging.
+  - Reported software bugs using the bug tracking tools CoreALM and JIRA.
 
-### **Technical Skills**
-- **Languages:** Python, C++, Java
-- **Tools:** CANoe, Git, CoreALM, Postman API, DLT Viewer, DOORS, Linux, Shell
-- **Diagnostics:** UDS, Ethernet
+- **Technical Skills:** Python, Linux, CANoe, Git, Diagnostics (UDS), Ethernet.
 
 ---
 
@@ -43,69 +43,70 @@ Valeo, Cairo, Egypt
 ### **Embedded Systems Diploma**  
 Information Technology Institute (ITI)  
 *Dec 2021 – April 2022*
-- Focused on embedded systems software, hardware, and RTOS.
+- Gained comprehensive knowledge in embedded systems software, hardware, and RTOS.
+- Applied skills on 8‑bit AVR microcontroller, 32‑bit ARM processor, and Raspberry Pi.
 
 ### **Bachelor’s Degree in Mechatronics Engineering**  
 German University in Cairo  
 *2015 – 2020*
-- Thesis Topic: Full-Scale Vehicle Dynamic Modeling and Simulation for Different Driving Scenarios.
-- Grade: Excellent.
+- **Thesis:** Full-Scale Vehicle Dynamic Modeling and Simulation for Different Driving Scenarios.
+- **Grade:** Excellent.
 
 ---
 
 ## 🛠️ Selected Projects
 
-- **ATM Software with GUI**  
-  Developed a software for ATM services using Python and TKinter framework.
-
-- **Clinic Management System**  
-  Created a clinic management software using C, featuring admin and user modes.
-
-- **Full-Scale Vehicle Dynamic Modeling and Simulation**  
-  Simulated and analyzed vehicle dynamics using MATLAB/SIMULINK. 
-
+- **ATM Software with GUI**
+  - Developed an ATM software application using Python, offering five distinct services.
+  - Implemented a user‑friendly GUI using the Tkinter framework.
+- **Clinic Management System**
+  - Developed a clinic management software in C, featuring admin and user modes with six distinct services.
+- **Full-Scale Vehicle Dynamic Modeling and Simulation for Different Driving Scenarios (Bachelor Project)**  
+  - Created, simulated, and analyzed a MATLAB/SIMULINK model for a full‑scale vehicle with fourteen degrees of freedom.
+  - Achieved a grade of Excellent (A) for the project.
 - **Maze Solving Mobile Robot**  
-  Designed and programmed a robot to solve a maze using Arduino and machine learning algorithms.
+  - Designed and programmed a mobile robot to solve mazes using line‑following techniques and machine learning algorithms, utilizing Arduino and MATLAB Stateflow.
 
 ---
 
 ## 📜 Certifications
 
-- **Agile Tester (CTFL-AT)** | ISTQB® | Nov 2023
-- **Certified Tester Foundation Level (CTFL)** | ISTQB® | Nov 2022
+- **Agile Tester (CTFL-AT)** | ISTQB®
+  - Nov 2023 | Credential ID: 231116033
+- **Certified Tester Foundation Level (CTFL)** | ISTQB®
+  - Nov 2022 | Credential ID: 221122035
 
 ---
 
 ## 💻 Skills
 
-- **Technical Skills:** 
-  - Programming: Python, C++, Java, OOP
-  - Diagnostics: UDS, ISO26262
-- **Soft Skills:** 
-  - Agile Methodologies, Critical Thinking, Teamwork, Problem-Solving, Adaptability
+- **Technical Skills:** Python, C++, Object‑Oriented Programming (OOP), CAN, CAPL, Diagnostics (UDS/ISO26262)
+- **Tools & Technologies:** CANoe, Git, CoreALM, Postman API, DLT Viewer, DOORS, Linux, Shell Scripting
+- **Soft Skills:** Agile Methodologies, Critical Thinking, Teamwork, Problem Solving, Adaptability
 
 ---
 
 ## 🏆 Awards
 
-- **2015 Academic Excellence Award**, Zewail City of Science and Technology
-- **2015 GUC Scholarship and Excellence Award**, German University in Cairo
+- **Academic Excellence Award**, Zewail City of Science and Technology
+- **Scholarship and Excellence Award**, German University in Cairo (GUC)
 
 ---
 
 ## 🎉 Extracurricular Activities
 
-- **2019:** Talent Management Team Leader, Inspire GUC
-- **2018:** Public Relations Member, Astronomy Club AUC
-- **2018:** Public Relations Member, ASME GUC
+- **Talent Management Team Leader**, Inspire, GUC
+- **Public Relations Member**, Astronomy Club, American University in Cairo (AUC)
+- **Public Relations Member**, American Society of Mechanical Engineers (ASME), GUC
 
 ---
 
 ## 🌍 Languages
 
-- **English:** C1
-- **German:** A2.1
-- **French:** A1
+- **Arabic:** Native
+- **English:** Proficient (C1)
+- **German:** Elementary Proficiency (A2.1)
+- **French:** Basic Proficiency (A1)
 
 ---
 
