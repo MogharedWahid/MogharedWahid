@@ -21,8 +21,8 @@ Valeo, Cairo, Egypt
 
 - **Project:** Renault In-Vehicle Communication (IVC-TCU)
   - Tested the Remote Diagnostics feature to ensure compliance with EURO regulations for on‑board measurements.
-  - Delivered 9 successful software releases to Renault, identifying over 20 software defects.
-  - Designed over 100 comprehensive test cases covering all software requirements.
+  - Delivered over 20 successful software releases to Renault, identifying over 40 software defects.
+  - Designed over 200 comprehensive test cases covering all software requirements.
   - Automated test case execution, integrating seamlessly with the CI pipeline, resulting in a 70% reduction in overall test execution time.
   - Extended test automation to include additional features, such as E‑Call.
   - Managed the comprehensive execution of software release acceptance tests (SRAT) within the CI pipeline, ensuring the quality and compliance of core functionalities for each release.
@@ -54,6 +54,23 @@ German University in Cairo
 
 ---
 
+## 📜 Certifications
+
+- **Agile Tester (CTFL-AT)** | ISTQB®
+  - Nov 2023 | Credential ID: 231116033
+- **Certified Tester Foundation Level (CTFL)** | ISTQB®
+  - Nov 2022 | Credential ID: 221122035
+
+---
+
+## 💻 Skills
+
+- **Technical Skills:** Python, C++, CAN, CAPL, Robot Framework, Diagnostics (UDS/ISO26262)
+- **Tools & Technologies:** CANoe, Git, CoreALM, Postman API, DLT Viewer, DOORS, Linux, Shell Scripting
+- **Soft Skills:** Agile Methodologies, Critical Thinking, Teamwork, Problem Solving, Adaptability
+
+---
+
 ## 🛠️ Selected Projects
 
 - **ATM Software with GUI**
@@ -66,23 +83,6 @@ German University in Cairo
   - Achieved a grade of Excellent (A) for the project.
 - **Maze Solving Mobile Robot**  
   - Designed and programmed a mobile robot to solve mazes using line‑following techniques and machine learning algorithms, utilizing Arduino and MATLAB Stateflow.
-
----
-
-## 📜 Certifications
-
-- **Agile Tester (CTFL-AT)** | ISTQB®
-  - Nov 2023 | Credential ID: 231116033
-- **Certified Tester Foundation Level (CTFL)** | ISTQB®
-  - Nov 2022 | Credential ID: 221122035
-
----
-
-## 💻 Skills
-
-- **Technical Skills:** Python, C++, Object‑Oriented Programming (OOP), CAN, CAPL, Diagnostics (UDS/ISO26262)
-- **Tools & Technologies:** CANoe, Git, CoreALM, Postman API, DLT Viewer, DOORS, Linux, Shell Scripting
-- **Soft Skills:** Agile Methodologies, Critical Thinking, Teamwork, Problem Solving, Adaptability
 
 ---
 
